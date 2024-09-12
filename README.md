@@ -1,1 +1,2 @@
-# ci-cd-2024
+# CI-CD-Jenkins-CircleCI
+Curso de CI y CD con Jenkins y CircleCI
